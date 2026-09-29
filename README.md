@@ -1,1 +1,1 @@
-# duo-git-mateus-gabztx
+# Projeto em dupla de Mateus e Gabriela
